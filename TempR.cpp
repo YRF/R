@@ -22,14 +22,7 @@ if (h>2){int a=h/2; R(a);}
 }
 
 int main() {
-   //int *a=new int [10];
-   int **b=new int *[2];
-   for ( size_t i = 0; i != 2; ++i)
-    b[i] = new int[10];
-    //b[0]=a;
 
-    b[1][5]=3;
-see(b,10);
-
-see(b,10);
+cout <<"sssssssssssssssssssssssssssssssssssssssssssss";
+//see(b,10);
 }
